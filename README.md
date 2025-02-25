@@ -1,4 +1,4 @@
-# Learn Terraform - Use Control Tower Account Factory for Terraform
+# Dependent Repo for the AWS Control Tower Terraform
 
 This is a companion repository for the Hashicorp [Provision and Manage Accounts with
 Control Tower Account Factory for Terraform
